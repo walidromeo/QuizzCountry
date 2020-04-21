@@ -128,7 +128,7 @@ function NextQ()
         // Stockage On Browser Score Ussing in End PAge
         localStorage.setItem("Yscore",Score);
         // Go To End Page
-       return window.location.assign("/end.html")
+       return window.location.assign("end.html")
     }
     // Incrematation Counter Question
         CounterQ=CounterQ+1;
