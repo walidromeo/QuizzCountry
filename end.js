@@ -12,7 +12,7 @@ function Save(e)
 // Function Of Click In Buuton Save Go to Home Page
 function TryAgain()
 {
-    window.location.assign('/index.html');
+    window.location.assign('index.html');
 }
 // Print in Dom Score
 Scoore.innerHTML = UpdateScore;
